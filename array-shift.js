@@ -1,4 +1,4 @@
-function panggilShift(){
+function fungsiShift(){
     var arry = ["bekasi", "jakarta", "Jogja", "klaten"]
     console.log(arry); // hasil console.log masih utuh
 
