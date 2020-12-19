@@ -1,0 +1,8 @@
+{
+  "name": "javascript-lanjutan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ZoreIves/javascript-latihan.git",
+  "author": "Catur Hidayat <c.meong@gmail.com>",
+  "license": "MIT"
+}
