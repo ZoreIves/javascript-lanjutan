@@ -4,6 +4,7 @@ function arrayJoin(){
 
     var result = kota.join(", ")
     return result
+    
 }
 
 console.log(arrayJoin());

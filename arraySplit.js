@@ -6,4 +6,5 @@ function arraySplit(){
     return result
 
 }
+
 console.log(arraySplit());
